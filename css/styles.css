@@ -24,7 +24,7 @@ body {
   border-radius: 10px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 90%;
+  width: 80%;
   max-width: 400px;
 }
 
@@ -71,5 +71,32 @@ button:hover {
 }
 
 #result p {
-  margin: 10px 0;
+  margin: 5px 0;
 }
+
+@media screen and (max-width: 375px) and (max-height: 740px) {  
+  .logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  .input-group input {
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+
+  #result p {
+    font-size: 14px;
+  }
+}
+
