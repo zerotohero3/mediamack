@@ -36,9 +36,4 @@ function calculate() {
   }
 
   document.getElementById("result").innerHTML = resultText;
-
-  document.getElementById("p1").value = "";
-  document.getElementById("p2").value = "";
-  document.getElementById("n2").value = "";
-  document.getElementById("participation").value = "";
 }
