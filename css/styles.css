@@ -74,13 +74,7 @@ button:hover {
   margin: 5px 0;
 }
 
-@media screen and (max-width: 375px) and (max-height: 740px) {  
-  .logo {
-    width: 70px;
-    height: 70px;
-    margin-bottom: 20px;
-  }
-
+@media screen and (max-width: 380px) and (max-height: 740px) {  
   h1 {
     font-size: 25px;
     margin-bottom: 20px;
@@ -88,11 +82,13 @@ button:hover {
 
   .input-group input {
     font-size: 14px;
+    padding: 7px;
   }
 
   button {
     font-size: 12px;
     padding: 8px 16px;
+    margin-top: 10px;
   }
 
   #result p {
@@ -100,3 +96,10 @@ button:hover {
   }
 }
 
+@media screen and (max-width: 450px) {  
+  .logo {
+    width: 65px;
+    height: 65px;
+    margin-bottom: 20px;
+  }
+}
