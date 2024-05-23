@@ -1,6 +1,6 @@
 # Semester Grade Calculator
 
-This project is a web-based system designed to calculate the semester average of students at Mackenzie Presbyterian University. It provides students with a user-friendly interface suitable for various devices, ensuring flexible accessibility. The semester structure includes two exams (P1 and P2), each with dedicated input fields. Additionally, students can input the sum of their semester activities' grades and their participation grade. This tool aims to provide students with a convenient way to track their academic progress and make informed decisions regarding their studies.
+This project is a web-based system designed to calculate the semester average of students at Mackenzie Presbyterian University. It provides students with a user-friendly interface suitable for various devices, ensuring flexible accessibility. The semester structure includes two exams, each with dedicated input fields. Additionally, students can input the sum of their semester activities' grades and their participation grade. This tool aims to provide students with a convenient way to track their academic progress and make informed decisions regarding their studies.
 
 ## Demonstration
 
