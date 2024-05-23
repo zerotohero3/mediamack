@@ -20,7 +20,11 @@ function calculate() {
     participation < 0 ||
     participation > 1
   ) {
-    alert("Por favor, preencha todas as notas corretamente.");
+    if (isNaN(participation) || participation < 0 || participation > 1) {
+      alert("A nota de participação deve estar entre 0 e 1.");
+    } else {
+      alert("As notas avaliativas devem estar entre 0 e 10.");
+    }
     return;
   }
 
