@@ -4,7 +4,7 @@ This project is a web-based system designed to calculate the semester average of
 
 ## Demonstration
 
-<a href="https://zerotohero3.github.io/mediamack/"><img src="https://i.postimg.cc/BvYzZwRs/mack.png" width="550" height="710" alt="Grade calculator image" ></a>
+<a href="https://zerotohero3.github.io/mediamack/"><img src="https://i.postimg.cc/XqJ3gkCf/mackk.png" width="561" height="704" alt="Grade calculator image" ></a>
 
 ## Authors
 
