@@ -52,11 +52,12 @@ button {
   background-color: #cc081b;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 10px;
+  width: 100%;
   border-radius: 5px;
   cursor: pointer;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 20px;
 }
 
@@ -86,8 +87,7 @@ button:hover {
   }
 
   button {
-    font-size: 12px;
-    padding: 8px 16px;
+    font-size: 14px;
     margin-top: 10px;
   }
 
